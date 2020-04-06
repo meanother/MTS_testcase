@@ -1,6 +1,7 @@
 .idea/
 .ipynb_checkpoints/
 venv/
+spark-warehouse/
 js.json
 howto.py
 example.py
